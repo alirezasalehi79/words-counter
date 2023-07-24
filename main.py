@@ -152,8 +152,8 @@ print(f'number of characters : {characters(text)}')
 
 short,medium,long = short_or_long(text)
 
-print(f'short words : {short} ')
-print(f'medium words : {medium} ')
-print(f'long words : {long} ')
+print(f'short words : {short}  ')
+print(f'medium words : {medium}  ')
+print(f'long words : {long}  ')
 
 
